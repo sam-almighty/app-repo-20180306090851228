@@ -22,7 +22,7 @@ The Basic IBM Cloud Mobile Starter project has integration points (by default) f
 * A [Bluemix](http://bluemix.net) Account
 * [Android Studio](https://developer.android.com/studio/index.html) and [Gradle](https://gradle.org/gradle-download/)
 
-### Configuration
+### Configuration  
 
 * Open the project in Android Studio and perform a Gradle Sync.
 * There is no configuration in the Basic starter if there is no Mobile Foundation Service. Incase Mobile Foundation is added then follow the below pre steps.
